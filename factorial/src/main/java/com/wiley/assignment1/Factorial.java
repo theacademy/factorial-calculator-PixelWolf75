@@ -78,7 +78,7 @@ public class Factorial {
 		 //result would multiply by i until i equals the number provided starting from 1
 		for (int i = 1; i <= num; i++)
 		{
-			result = result * i; //Multiply the result by each number and assign it to result
+			result = result * i; // Multiply the result by each number and assign it to result
 		}
 
 		//YOUR CODE ENDS HERE
