@@ -34,7 +34,7 @@ public class Factorial {
 		*/
 
 		//YOUR CODE STARTS HERE
-
+		 System.out.println("Test");
 		return -1;
 
 		//YOUR CODE ENDS HERE
